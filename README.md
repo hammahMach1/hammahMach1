@@ -1,4 +1,4 @@
-## Hello, I'm Hammah Mach1 👋
+## Hello, I'm Kwesi 👋
 
 Welcome to my GitHub profile! I'm Hammah Mach1, a passionate and enthusiastic newbie full stack developer with a strong desire to learn and grow in the world of web development. I love to code, build things, and solve problems.
 
