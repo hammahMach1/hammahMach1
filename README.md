@@ -1,27 +1,38 @@
-## Hello, I'm Kwesi 👋
+👋🏾 Hi, I’m Kwesi B. Hammah
+I'm a software developer and entrepreneur based in Ghana, passionate about building scalable digital solutions that solve real-world problems. I specialize in Android (Kotlin), iOS (Swift), and Python development — crafting clean, efficient, and user-centered applications.
 
-Welcome to my GitHub profile! I'm Hammah Mach1, a passionate and enthusiastic newbie full stack developer with a strong desire to learn and grow in the world of web development. I love to code, build things, and solve problems.
+🚀 Founder of Ouzatech
+At Ouzatech, we focus on building sleek websites and high-performance web apps for businesses and individuals. Whether you're a startup or a growing enterprise, we help bring your vision to life with code and strategy.
 
-### 🌱 About Me
+🧠 What I Work With:
+Languages: Kotlin, Swift, Python, JavaScript
 
-- 🎓 Graduated with a degree in Sociology.
-- 💡 Currently exploring the realms of full stack development.
-- 🌟 Excited about front-end technologies like HTML, CSS, and JavaScript.
-- 🔧 Eager to dive into back-end technologies like Node.js and Express.
-- 🛠️ Building small projects to improve my skills and understanding.
+Mobile: Android (Jetpack Compose, XML), iOS (SwiftUI, UIKit)
 
-### 🚀 What I'm Working On
+Web: Django, Flask, React, TailwindCSS
 
-- 🌐 Crafting responsive and user-friendly web interfaces.
-- 📚 Learning about RESTful APIs and database management.
-- 🌱 Developing a personal project to showcase my skills.
+Tools: Git, Firebase, REST APIs, Figma, Docker (beginner)
 
-### 💬 Let's Connect
+Workflow: Clean architecture, Agile, CI/CD, scalable backends
 
-I'm always open to collaborating on exciting projects and learning from others in the developer community. Feel free to reach out to me if you'd like to chat about coding, development opportunities, or just to say hello!
+💡 Projects & Goals
+🔧 Building end-to-end apps for clients across Ghana and beyond
 
-📫 [Email](mailto:hammahmach1@gmail.com)
-🐦 [Twitter](https://twitter.com/arcabachie) 
-💼 [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile)](https://www.linkedin.com/in/kwesi-hammah-a6021767/) 
+🌍 Scaling Ouzatech into a premier software services company in West Africa
 
-Looking forward to connecting with fellow developers and expanding my knowledge as a full stack developer! 😄
+🎯 Exploring AI, automation, and financial technologies
+
+📱 Passionate about UX, fast APIs, and apps that just work
+
+📈 Let’s Work Together
+I’m always open to new collaborations — whether it's contract work, partnerships, or consulting. Got a problem you want solved with code?
+
+📩 Reach out at: kwesi@ouzatech.com
+🌐 Visit: www.ouzatech.com (insert your actual site)
+
+🔗 Let’s Connect
+LinkedIn
+
+Twitter
+
+Dev.to
