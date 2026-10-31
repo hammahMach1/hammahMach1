@@ -1,38 +1,30 @@
-👋🏾 Hi, I’m Kwesi B. Hammah
-I'm a software developer and entrepreneur based in Ghana, passionate about building scalable digital solutions that solve real-world problems. I specialize in Android (Kotlin), iOS (Swift), and Python development — crafting clean, efficient, and user-centered applications.
+Kwesi B. Hammah
+Software Developer · Founder of Ouzatech · Game Developer
 
-🚀 Founder of Ouzatech
-At Ouzatech, we focus on building sleek websites and high-performance web apps for businesses and individuals. Whether you're a startup or a growing enterprise, we help bring your vision to life with code and strategy.
+I build software that earns its place in people’s lives.
 
-🧠 What I Work With:
-Languages: Kotlin, Swift, Python, JavaScript
+Based in Ghana, I work across mobile apps, web platforms and games. My interests stretch from making everyday business workflows simpler to building interactive worlds with stories rooted in places rarely seen in games.
 
-Mobile: Android (Jetpack Compose, XML), iOS (SwiftUI, UIKit)
+I founded Ouzatech to turn real problems into thoughtfully designed software. We build custom websites, web applications, SaaS products and progressive web apps, with close attention to usability, performance and the details people notice when something just works.
 
-Web: Django, Flask, React, TailwindCSS
+What I’m building
+- Ouzatech: software and digital experiences for businesses in Ghana and beyond.
+- Ghana Health Referral System: a platform in development to improve how hospitals coordinate patient referrals.
+- WEIJA: a Godot game in development, following a young robot builder through a night of flood rescues around Ghana’s Densu River. Built under Simple Art Games, an Ouzatech studio.
+My toolkit
+- Mobile: Kotlin, Jetpack Compose, Swift, SwiftUI, UIKit
+- Web: JavaScript, TypeScript, React, Tailwind CSS, Node.js
+- Backend: Python, Django, Flask, SQL, REST APIs
+- Tools: Git, Firebase, Figma, Godot
+- Currently exploring: AI-assisted development, automation, cloud workflows and Docker
+How I approach the work
 
-Tools: Git, Firebase, REST APIs, Figma, Docker (beginner)
+Understand the problem. Build something useful. Pay attention to how it feels. Keep improving it.
 
-Workflow: Clean architecture, Agile, CI/CD, scalable backends
+I care about clear architecture, responsive interfaces, dependable systems and the craft of making a product feel complete. My background in healthcare administration also keeps me close to the practical challenges software needs to solve.
 
-💡 Projects & Goals
-🔧 Building end-to-end apps for clients across Ghana and beyond
+Open to thoughtful collaborations, client projects and partnerships.
 
-🌍 Scaling Ouzatech into a premier software services company in West Africa
+ouzatech.com · kwesi@ouzatech.com
 
-🎯 Exploring AI, automation, and financial technologies
-
-📱 Passionate about UX, fast APIs, and apps that just work
-
-📈 Let’s Work Together
-I’m always open to new collaborations — whether it's contract work, partnerships, or consulting. Got a problem you want solved with code?
-
-📩 Reach out at: kwesi@ouzatech.com
-🌐 Visit: www.ouzatech.com (insert your actual site)
-
-🔗 Let’s Connect
-LinkedIn
-
-Twitter
-
-Dev.to
+Built in Africa. Built for the World.
